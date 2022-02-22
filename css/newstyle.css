@@ -1,3 +1,7 @@
+html{
+  scroll-behavior: smooth;
+  scroll-padding-top: 91px;
+}
 body {
     font-family: 'Rajdhani', sans-serif;
     padding: 0;
@@ -174,7 +178,7 @@ body {
   .main_menu .main-menu-item ul li .nav-link {
     color: #2f373d;
     font-size: 18px;
-    padding: 45px 34px;
+    padding: 15px 34px;
     font-family: 'Rajdhani', sans-serif;
     text-transform: uppercase;
   }
@@ -274,7 +278,7 @@ body {
     padding-bottom: 30px;    
 }
 .logo{
-    width: 120px;
+  width: 100px;
 }
 .btn-primary:hover {
     color: #fff;
